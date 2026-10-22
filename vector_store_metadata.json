@@ -1,0 +1,9 @@
+{
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "pdf_name": "Hands_On_Machine_Learning.pdf",
+    "pdf_size": 46016026,
+    "pdf_modified": 1764681216.1406195,
+    "chunk_size": 1000,
+    "chunk_overlap": 200,
+    "embedding_dimension": 384
+}
