@@ -1,11 +1,11 @@
-RAG From Zero --- A Beginner-Friendly Python Walkthrough
+# RAG From Zero --- A Beginner-Friendly Python Walkthrough
 This README explains how to build and understand a Retrieval-Augmented
 Generation (RAG) pipeline from the ground up. It is intended to
 accompany a Python script such as rag_from_scratch.py.
 
 The goal is not just to run RAG, but to understand what every stage
 does, why it is needed, and how information moves through the system.
-1. What is RAG?
+# 1. What is RAG?
 Retrieval-Augmented Generation (RAG) is a technique that lets a
 Large Language Model (LLM) answer questions using information retrieved
 from your own documents.
